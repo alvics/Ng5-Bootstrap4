@@ -1,6 +1,6 @@
 # Angular 5 Bootstrap 4 
 ## Starter template
-Come pre loaded with jQuery, popper.js, font-awesome, ngx-bootstrap, bootstrap 4.0.0 bootswatch, routing and sccs.
+###Comes pre loaded with jQuery, popper.js, font-awesome, ngx-bootstrap, bootstrap 4.0.0, bootswatch, routing and sccs.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0-beta.1.
 
